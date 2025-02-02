@@ -1,0 +1,4 @@
+url=ლინკი
+paragraph=პარაგრაფი
+heading=სათაური
+src=წყარო

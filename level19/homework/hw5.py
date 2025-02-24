@@ -7,4 +7,4 @@ counter = 0
 
 for i in names:
     counter += 1
-    print(names)
+print(names)

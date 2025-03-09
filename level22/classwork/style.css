@@ -1,0 +1,22 @@
+/* <!-- 2) შექმენით მარტივი საიტი სადაც გამოიყენებთ ახლანდელ შესწავლილ მასალას css (color, backgroun-color, font-size, font-weight, text-align)  --> */
+h1{
+    color: blue;
+    font-size: 450%;
+    font-weight: 90px;
+    text-align: center;
+    background-color: cadetblue;
+}
+#p1{
+    color: purple;
+    font-size: 150%;
+    font-weight: 70px;
+    text-align: right;
+    background-color: cadetblue;
+}
+#p2{
+    color: red;
+    font-size: 200%;
+    font-weight: 50px;
+    text-align: center;
+    background-color: cadetblue;
+}

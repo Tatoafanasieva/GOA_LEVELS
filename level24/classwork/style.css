@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+#div1{
+    display: flex;
+    color: blue;
+}
+#div2{
+    color: red;
+    text-align: center;
+    font-size: 400%;
+    font-weight: 200%;
+}
+#div3{
+    color: green;
+    font-size: 150%;
+}
